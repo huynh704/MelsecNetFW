@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelsecNetFW", "MelsecNetFW\MelsecNetFW.csproj", "{36F0FC1D-95BC-4B6C-A297-8A46AE28A40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F0FC1D-95BC-4B6C-A297-8A46AE28A40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F0FC1D-95BC-4B6C-A297-8A46AE28A40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F0FC1D-95BC-4B6C-A297-8A46AE28A40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F0FC1D-95BC-4B6C-A297-8A46AE28A40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797FC101-2B45-42FC-B5BD-FF7119BE1C20}
+	EndGlobalSection
+EndGlobal
